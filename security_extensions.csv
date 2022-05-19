@@ -1,0 +1,15 @@
+#;Confidentiality;Integrity;Availability;Attack / harm detection and prevention;Accountability;Auditability;Non-Repudiation;Authorization;User-Consent;Authentication;Identification;Security Task;secure channel;Encrypted Message;Access control;Seperation of Duty;Binding of duty;Anonymity;Unlinkability;Undetectability;Unobservability;privacy;delegation;Need to know principle
+1;yes;yes;yes;;;;;;;;;;;;;;;;;;;;;
+2;yes;yes;yes;yes;;yes;yes;yes;yes;yes;yes;;;;;;;;;;;;;
+3;yes;yes;yes;;;;;yes;;yes;;;yes;;;;;;;;;;;
+4;yes;yes;yes;yes;;;yes;yes;;yes;;yes;yes;yes;yes;;;;;;;;;
+5;yes;yes;yes;;;;yes;;;yes;;;;;;;;;;;;;;
+6;yes;yes;yes;;yes;;;;;;;;;;;;;;;;;;;
+7;yes;yes;;;;;yes;;;yes;;;;;;yes;yes;;;;;yes;;
+8;yes;yes;yes;;yes;yes;yes;;;yes;;;;;;yes;yes;yes;yes;yes;yes;yes;;
+9;yes;;;;;;;;;;;;;;yes;yes;yes;;;;;;yes;yes
+10;;yes;yes;yes;yes;;;;;;;;;;yes;;;;;;;yes;;
+11;yes;yes;;;;yes;;yes;;yes;;;;;;yes;yes;;;;;;yes;
+12;yes;yes;;;;;;;;yes;;;yes;yes;;;;yes;;;;yes;;
+;11;11;8;3;3;3;5;4;1;8;1;1;3;2;3;4;4;2;1;1;1;4;2;1
+;;;;;;;;;;;;;;;;;;;;;;;;

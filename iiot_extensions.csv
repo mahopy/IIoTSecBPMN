@@ -1,0 +1,13 @@
+;;;(Pool / Lane);(Task);;;;;;;;;
+;Physical Task;;Cloud;Cyber Task;;;;;;;;;
+;Actuators Task;SensorsTask;;WebServiceTask;CloudServiceTask;Embedded Service Task;Real World (physical entities);Mobility aspect;Temporal properties;Real Data Store;Real Data Object;IoT Device;Human Computer Interface
+BPMN4CPS;yes;yes;;yes;yes;yes;yes;yes;yes;no;no;no;no
+I4PML;yes;yes;yes;no;no;no;no;yes;no;yes;yes;yes;yes
+IoT-A;yes;yes;no;no;no;no;yes;yes;no;yes;yes;yes;no
+BPMN4WSN;yes;yes;no;no;no;no;no;no;no;no;no;yes;no
+PyBPMN;yes;yes;no;no;no;no;no;no;no;no;no;no;no
+IOBP 4.0;yes;yes;no;no;no;no;no;no;no;no;no;no;no
+uBPMN;no;yes;no;no;no;no;no;no;no;no;yes;no;no
+Cheng et al.;no;yes;no;no;no;no;no;no;no;no;no;no;no
+Chiu et al.;yes;yes;no;no;no;no;no;no;no;no;no;no;no
+;7;9;1;1;1;1;2;3;1;2;3;3;1
